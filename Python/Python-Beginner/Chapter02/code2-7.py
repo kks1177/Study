@@ -1,4 +1,5 @@
 # code2-7.py
+# 터틀 그래픽 프로그램 완성
 
 import turtle
 import random

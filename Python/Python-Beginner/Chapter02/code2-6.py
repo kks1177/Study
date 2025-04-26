@@ -1,4 +1,5 @@
 # code2-6.py
+# 터틀 프로그램 기본 틀 만들기 (2)
 
 import turtle
 

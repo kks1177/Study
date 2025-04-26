@@ -1,4 +1,5 @@
 # ex3-1.py
+# 데이터형 크기 확인
 
 import sys
 
