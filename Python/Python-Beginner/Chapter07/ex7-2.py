@@ -10,7 +10,7 @@ tmpTup = None
 totalRank, currentRank = 1, 1
 
 ## 메인 코드 부분 ##
-if __name__ = "__main__":
+if __name__ == "__main__":
     for tmpTup in trainTupleList:
         tName = tmpTup[0]
         tWeight = tmpTup[1]
