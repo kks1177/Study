@@ -12,11 +12,15 @@ public class ex8_9 {
 
         System.out.printf("aa[0][0] ~ aa[2][3]까지 출력 \n"); 
 
-        for (i=0; i<3; i++) {
-            for (k=0; k<4; k++) {
-                System.out.printf("%3d", aa[i][k]); 
-            }
-            System.out.printf("\n"); 
+        try {
+            for (i=0; i<3; i++) {
+                for (k=0; k<4; k++) {
+                    System.out.printf("%3d", aa[i][k]); 
+                }
+                System.out.printf("\n"); 
+            }            
+        } catch (Exception e) {
+            System.err.println("\n\n !!!예외 발생: " + e.getMessage());
         }
     }
 }
