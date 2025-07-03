@@ -15,8 +15,13 @@ public class Ex6_CarExam2 {
         System.out.println("최고속도 : " + myCar.maxSpeed);
         System.out.println("현재속도 : " + myCar.speed);
 
-        // Car 객체의 필드값 변경
-        myCar.speed = 60;
-        System.out.println("수정된 속도 : " + myCar.speed);
+        try {
+            // Car 객체의 필드값 변경
+            myCar.speed = 60;
+            System.out.println("수정된 속도 : " + myCar.speed);            
+        } catch (Exception e) {
+            System.err.println("\n\n !!!예외 발생: " + e.getMessage());
+            e.printStackTrace();
+        }
     }
 }
