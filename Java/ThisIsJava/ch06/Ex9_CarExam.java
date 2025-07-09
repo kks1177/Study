@@ -8,7 +8,12 @@ public class Ex9_CarExam {
         Ex9_Car myCar = new Ex9_Car("포르쉐");
         Ex9_Car yourCar = new Ex9_Car("벤츠");
 
-        myCar.run();
-        yourCar.run();
+        try {
+            myCar.run();
+            yourCar.run();            
+        } catch (Exception e) {
+            System.err.println("\n\n !!!예외 발생: " + e.getMessage());
+            e.printStackTrace();
+        }
     }
 }

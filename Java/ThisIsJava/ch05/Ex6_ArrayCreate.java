@@ -1,9 +1,9 @@
-// Ex6_ArrayCreateByNewExam.java
+// Ex6_ArrayCreate.java
 // 배열(Array) 타입
 
 package ThisIsJava.ch05;
 
-public class Ex6_ArrayCreateByNewExam {
+public class Ex6_ArrayCreate {
     public static void main(String[] args) {
         // 배열 변수 선언과 배열  생성
         int[] arr1 = new int[3];

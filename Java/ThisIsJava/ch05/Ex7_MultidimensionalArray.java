@@ -1,9 +1,9 @@
-// Ex7_MultidimensionalArrayByNewExam.java
+// Ex7_MultidimensionalArray.java
 // 다차원 배열 
 
 package ThisIsJava.ch05;
 
-public class Ex7_MultidimensionalArrayByNewExam {
+public class Ex7_MultidimensionalArray {
     public static void main(String[] args) {
         // 각 반의 학생 수가 3명으로 동일할 경우 점수 저장을 위한 2차원 배열 생성
         int[][] mathScores = new int[2][3];
