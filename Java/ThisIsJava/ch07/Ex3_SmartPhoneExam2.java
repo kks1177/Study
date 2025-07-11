@@ -3,7 +3,7 @@
 
 package ThisIsJava.ch07;
 
-public class Ex3_SamrtPhoneExam2 {
+public class Ex3_SmartPhoneExam2 {
     public static void main(String[] args) {
         // SmartPhone2 객체 생성
         Ex3_SmartPhone2 myPhone = new Ex3_SmartPhone2("갤럭시", "은색");
