@@ -12,7 +12,7 @@ class Car {
         count++;
     }
 
-    static int getCount() {
+    public static int getCount() {
         return count;
     }
 }
