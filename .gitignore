@@ -199,3 +199,7 @@ dmypy.json
 
 # 기타
 .pypirc
+
+
+# pdf 제외
+Java/SpringBoot/스프링 부트 (쇼핑몰 프로젝트 with JPA).pdf
