@@ -15,8 +15,8 @@ public class ShoppingmallDemoApplication {
 		try {
 			SpringApplication.run(ShoppingmallDemoApplication.class, args);
 		} catch (Exception e) {
-			System.out.println("에러 발생!!! \n");
-			e.printStackTrace();	// 예외 직접 출력
+			System.err.println("\n\n !!!예외 발생: " + e.getMessage());
+			e.printStackTrace();
 		}
 	}
 
