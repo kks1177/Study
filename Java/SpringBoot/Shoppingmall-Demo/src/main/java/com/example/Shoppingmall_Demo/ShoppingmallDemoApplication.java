@@ -1,3 +1,5 @@
+// ShoppingmallDemoApplication.java
+
 package com.example.Shoppingmall_Demo;
 
 import org.springframework.boot.SpringApplication;
@@ -10,7 +12,12 @@ import org.springframework.web.bind.annotation.RestController;
 public class ShoppingmallDemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ShoppingmallDemoApplication.class, args);
+		try {
+			SpringApplication.run(ShoppingmallDemoApplication.class, args);
+		} catch (Exception e) {
+			System.out.println("에러 발생!!! \n");
+			e.printStackTrace();	// 예외 직접 출력
+		}
 	}
 
 	@GetMapping(value = "/")
