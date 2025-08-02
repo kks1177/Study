@@ -1,8 +1,8 @@
 // Item.java
 
-package com.shop.entity;
+package com.shoppingmall.entity;
 
-import com.shop.constant.ItemSellStatus;
+import com.shoppingmall.constant.ItemSellStatus;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
