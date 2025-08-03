@@ -35,3 +35,7 @@ out/
 
 ### VS Code ###
 .vscode/
+
+
+### QueryDSL generated sources (Q파일 자동생성) ###
+/src/main/generated/

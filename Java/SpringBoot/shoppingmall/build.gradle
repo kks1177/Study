@@ -33,8 +33,28 @@ dependencies {
 	annotationProcessor 'org.projectlombok:lombok'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+
+	// QueryDSL 의존성 추가
+	implementation 'com.querydsl:querydsl-jpa:5.1.0:jakarta'
+	annotationProcessor 'com.querydsl:querydsl-apt:5.1.0:jakarta'
 }
 
 tasks.named('test') {
 	useJUnitPlatform()
+}
+
+// QueryDSLDir 설정: Q파일 생성 디렉토리 지정
+def querydslDir = "src/main/generated"
+sourceSets {
+	main {
+		java {
+			srcDirs += querydslDir
+		}
+	}
+}
+// JavaCompile 설정: 생성 경로 Gradle에 알려주기
+tasks.withType(JavaCompile).configureEach {
+	options.compilerArgs += [
+			"-Aquerydsl.generatedSourcesDir=src/main/generated"
+	]
 }
