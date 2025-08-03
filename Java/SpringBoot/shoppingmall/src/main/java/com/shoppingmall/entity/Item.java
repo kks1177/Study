@@ -1,4 +1,5 @@
 // Item.java
+// 상품 저장하는 Item 엔티티 생성
 
 package com.shoppingmall.entity;
 
@@ -13,8 +14,7 @@ import java.time.LocalDateTime;
 
 @Entity
 @Table(name="item")
-@Getter
-@Setter
+@Getter     @Setter
 @ToString
 public class Item {
     @Id

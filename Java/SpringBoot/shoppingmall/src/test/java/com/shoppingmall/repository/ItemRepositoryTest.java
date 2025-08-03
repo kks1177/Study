@@ -1,3 +1,5 @@
+// ItemRepositoryTest.java
+
 package com.shoppingmall.repository;
 
 import com.shoppingmall.constant.ItemSellStatus;
