@@ -10,7 +10,7 @@ import lombok.ToString;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "cart")
+@Table(name = "templates/item/cart")
 @Getter     @Setter
 @ToString
 public class Cart {

@@ -27,14 +27,16 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
 	implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
 	implementation 'org.springframework.boot:spring-boot-starter-web'
+	implementation 'org.springframework.boot:spring-boot-starter-security'
+	implementation 'org.springframework.boot:spring-boot-starter-validation'
+	implementation 'org.modelmapper:modelmapper:3.2.0'
 	compileOnly 'org.projectlombok:lombok'
+	annotationProcessor 'org.projectlombok:lombok'
 	runtimeOnly 'com.h2database:h2'
 	runtimeOnly 'com.mysql:mysql-connector-j'
-	annotationProcessor 'org.projectlombok:lombok'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+	testImplementation 'org.springframework.security:spring-security-test'
 	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
-    implementation 'org.springframework.boot:spring-boot-starter-security'
-
 
 	// QueryDSL 의존성 추가
 //	implementation 'com.querydsl:querydsl-jpa:5.1.0:jakarta'
@@ -46,17 +48,18 @@ tasks.named('test') {
 }
 
 // QueryDSLDir 설정: Q파일 생성 디렉토리 지정
-def querydslDir = "src/main/generated"
-sourceSets {
-	main {
-		java {
-			srcDirs += querydslDir
-		}
-	}
-}
-// JavaCompile 설정: 생성 경로 Gradle에 알려주기
-tasks.withType(JavaCompile).configureEach {
-	options.compilerArgs += [
-			"-Aquerydsl.generatedSourcesDir=src/main/generated"
-	]
-}
+//def querydslDir = "src/main/generated"
+//sourceSets {
+//	main {
+//		java {
+//			srcDirs += querydslDir
+//		}
+//	}
+//}
+//// JavaCompile 설정: 생성 경로 Gradle에 알려주기
+//tasks.withType(JavaCompile).configureEach {
+//	options.compilerArgs += [
+//			options.annotationProcessorGeneratedSourcesDirectory = file("$buildDir/generated/querydsl")
+//			"-Aquerydsl.generatedSourcesDir=src/main/generated"
+//	]
+//}

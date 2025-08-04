@@ -15,7 +15,7 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 @Table(name="member")
 @Getter     @Setter
 @ToString
-public class Member {
+public class Member extends BaseEntity {
     @Id
     @Column(name="member_id")
     @GeneratedValue(strategy = GenerationType.AUTO)
@@ -40,8 +40,9 @@ public class Member {
         member.setAddress(memberFormDto.getAddress());
         String password = passwordEncoder.encode(memberFormDto.getPassword());
         member.setPassword(password);
-        member.setRole(Role.USER);
+        member.setRole(Role.ADMIN);
 
+        // 패스워드 Not Null 검사
         if (memberFormDto.getPassword() == null) {
             throw new IllegalArgumentException("Password must not be null");
         }

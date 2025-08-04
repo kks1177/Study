@@ -1,6 +1,5 @@
 // OrderTest.java
 
-/*
 package com.shoppingmall.entity;
 
 import com.shoppingmall.constant.ItemSellStatus;
@@ -68,4 +67,3 @@ class OrderTest {
         assertEquals(3, saveOrder.getOrderItems().size());
     }
 }
-*/

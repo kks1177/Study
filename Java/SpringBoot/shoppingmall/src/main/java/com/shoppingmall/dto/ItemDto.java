@@ -19,7 +19,7 @@ public class ItemDto {
 
     private String sellStatCd;
 
-    private LocalDateTime reTime;
+    private LocalDateTime regTime;
 
     private LocalDateTime updateTime;
 }
