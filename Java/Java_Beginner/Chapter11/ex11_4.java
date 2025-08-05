@@ -1,5 +1,3 @@
-// ex11_4.java
-
 package Java_Beginner.Chapter11;
 
 class Car {
