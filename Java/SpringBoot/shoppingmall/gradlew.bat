@@ -26,6 +26,11 @@
 @rem Set local scope for the variables with windows NT shell
 if "%OS%"=="Windows_NT" setlocal
 
+REM ===== 강제로 JAVA_HOME을 Java 17로 설정 =====
+set JAVA_HOME=C:\2025_KOSA\dev\IDE\Java\jdk-17
+set PATH=%JAVA_HOME%\bin;%PATH%
+REM =============================================
+
 set DIRNAME=%~dp0
 if "%DIRNAME%"=="" set DIRNAME=.
 @rem This is normally unused
