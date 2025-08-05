@@ -1,7 +1,7 @@
 // ex7_12.java
 // break 레이블문 사용 예 
 
-package Java.Java_Beginner.Chapter07;
+package Java_Beginner.Chapter07;
 
 public class ex7_12 {
     public static void main(String[] args) {

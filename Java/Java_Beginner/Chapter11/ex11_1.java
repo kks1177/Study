@@ -1,7 +1,7 @@
 // ex11_1.java
 // 자동차 클래스 생성 및 사용 예 1
 
-package Java.Java_Beginner.Chapter11;
+package Java_Beginner.Chapter11;
 
 class Car {
     String color = "";

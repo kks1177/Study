@@ -1,7 +1,7 @@
 // ex8_7.java
 // 2차원 배열 사용 예 1
 
-package Java.Java_Beginner.Chapter08;
+package Java_Beginner.Chapter08;
 
 public class ex8_7 {
     public static void main(String[] args) {

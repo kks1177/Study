@@ -1,7 +1,7 @@
 // ex9_4.java
 // indexOf(), lastIndexOf() 사용 예
 
-package Java.Java_Beginner.Chapter09;
+package Java_Beginner.Chapter09;
 
 public class ex9_4 {
     public static void main(String[] args) {

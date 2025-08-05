@@ -1,7 +1,7 @@
 // ex11_5.java
 // private, public 접근 제어 수식어 활용 예
 
-package Java.Java_Beginner.Chapter11;
+package Java_Beginner.Chapter11;
 
 class Car {
     private int speed = 0;

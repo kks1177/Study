@@ -1,7 +1,7 @@
 // ex3_12.java
 // 문자형 변수 사용 예 1
 
-package Java.Java_Beginner.Chapter03;
+package Java_Beginner.Chapter03;
 
 public class ex3_12 {
     public static void main(String[] args) {

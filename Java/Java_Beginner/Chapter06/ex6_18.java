@@ -1,7 +1,7 @@
 // ex6_18.java
 // 다양한 for문의 형태 3
 
-package Java.Java_Beginner.Chapter06;
+package Java_Beginner.Chapter06;
 
 import java.util.Scanner;
 

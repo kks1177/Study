@@ -1,7 +1,7 @@
 // ex9_11.java
 // 메소드를 사용하여 [실습9-10] 변경하기
 
-package Java.Java_Beginner.Chapter09; 
+package Java_Beginner.Chapter09; 
 
 import java.util.Scanner;
 

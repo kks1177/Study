@@ -1,7 +1,7 @@
 // ex4_9.java
 // 비트 논리합 연산자 사용 예
 
-package Java.Java_Beginner.Chapter04;
+package Java_Beginner.Chapter04;
 
 public class ex4_9 {
     public static void main(String[] args) {

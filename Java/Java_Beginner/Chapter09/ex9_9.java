@@ -1,7 +1,7 @@
 // ex9_9.java
 // ==와 equals()의 비교
 
-package Java.Java_Beginner.Chapter09;
+package Java_Beginner.Chapter09;
 
 public class ex9_9 {
     public static void main(String[] args) {

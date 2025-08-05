@@ -1,7 +1,7 @@
 // ex8_3.java
 // for문으로 배열의 첨자 활용 예
 
-package Java.Java_Beginner.Chapter08;
+package Java_Beginner.Chapter08;
 
 import java.util.Scanner;
 

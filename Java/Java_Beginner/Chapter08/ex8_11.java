@@ -1,7 +1,7 @@
 // ex8_11.java
 // 스택 구현 1
 
-package Java.Java_Beginner.Chapter08;
+package Java_Beginner.Chapter08;
 
 public class ex8_11 {
     public static void main(String[] args) {

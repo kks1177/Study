@@ -1,7 +1,7 @@
 // ex7_8.java
 // break문 사용 예 2
 
-package Java.Java_Beginner.Chapter07;
+package Java_Beginner.Chapter07;
 
 import java.util.Scanner;
 

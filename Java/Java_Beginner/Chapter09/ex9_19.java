@@ -1,7 +1,7 @@
 // ex9_19.java
 // 매개변수 전달 방법 비교
 
-package Java.Java_Beginner.Chapter09;
+package Java_Beginner.Chapter09;
 
 class myChar {
     char x = '\0';

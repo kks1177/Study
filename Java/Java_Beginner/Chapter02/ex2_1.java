@@ -1,7 +1,7 @@
 // ex2_1.java
 // 두 번째 프로그램 작성
 
-package Java.Java_Beginner.Chapter02;
+package Java_Beginner.Chapter02;
 
 public class ex2_1 {
     public static void main(String[] args) {

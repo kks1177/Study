@@ -1,7 +1,7 @@
 // ex4_4.java
 // 증감 연산자 사용 예
 
-package Java.Java_Beginner.Chapter04;
+package Java_Beginner.Chapter04;
 
 public class ex4_4 {
     public static void main(String[] args) {

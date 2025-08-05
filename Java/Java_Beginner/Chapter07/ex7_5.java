@@ -1,7 +1,7 @@
 // ex7_5.java
 // do~while문 사용 예 1
 
-package Java.Java_Beginner.Chapter07;
+package Java_Beginner.Chapter07;
 
 public class ex7_5 {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
 // exam10_26.java
 // 예외 처리를 활용한 간단한 계산기
 
-package Java.Java_Beginner.Chapter10;
+package Java_Beginner.Chapter10;
 
 import java.util.Scanner;
 

@@ -1,7 +1,7 @@
 // exam4_8.java
 // 입력된 두 실수의 산술 연산
 
-package Java.Java_Beginner.Chapter04;
+package Java_Beginner.Chapter04;
 
 import java.util.Scanner;
 

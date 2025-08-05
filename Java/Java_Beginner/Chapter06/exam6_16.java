@@ -1,7 +1,7 @@
 // exam6_16.java
 // 입력된 문자를 거꾸로 출력
 
-package Java.Java_Beginner.Chapter06;
+package Java_Beginner.Chapter06;
 
 import java.util.Scanner;
 

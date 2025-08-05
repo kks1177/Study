@@ -1,7 +1,7 @@
 // exam7_17.java
 // 원하는 배수의 합계를 구하는 계산기
 
-package Java.Java_Beginner.Chapter07;
+package Java_Beginner.Chapter07;
 
 import java.util.Scanner;
 

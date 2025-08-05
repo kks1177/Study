@@ -1,7 +1,7 @@
 // ex4_15.java
 // 왼쪽, 오른쪽 시프트 연산자 사용 예
 
-package Java.Java_Beginner.Chapter04;
+package Java_Beginner.Chapter04;
 
 public class ex4_15 {
     public static void main(String[] args) {

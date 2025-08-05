@@ -1,7 +1,7 @@
 // ex2_3.java
 // 소스코드 수정하기 (도움말 출력)
 
-package Java.Java_Beginner.Chapter02;
+package Java_Beginner.Chapter02;
 
 import java.util.Scanner;
 

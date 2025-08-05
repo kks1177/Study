@@ -1,7 +1,7 @@
 // ex8_12.java
 // 스택 구현 2
 
-package Java.Java_Beginner.Chapter08;
+package Java_Beginner.Chapter08;
 
 import java.util.Scanner;
 

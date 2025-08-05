@@ -1,7 +1,7 @@
 // exam2_2.java
 // if문을 활용한 계산기
 
-package Java.Java_Beginner.Chapter02;
+package Java_Beginner.Chapter02;
 
 import java.util.Scanner;
 

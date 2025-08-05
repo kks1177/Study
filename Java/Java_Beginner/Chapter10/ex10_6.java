@@ -1,3 +1,4 @@
+package Java_Beginner.Chapter10;
 // // ex10_6.java
 // // 표준 입력 사용 예
 

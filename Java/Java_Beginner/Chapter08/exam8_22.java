@@ -1,7 +1,7 @@
 // exam8_22.java
 // 배열을 활용한 큐
 
-package Java.Java_Beginner.Chapter08;
+package Java_Beginner.Chapter08;
 
 import java.util.Scanner;
 

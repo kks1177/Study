@@ -1,7 +1,7 @@
 // ex5_9.java
 // switch~case문 사용 예 1
 
-package Java.Java_Beginner.Chapter05;
+package Java_Beginner.Chapter05;
 
 import java.util.Scanner;
 

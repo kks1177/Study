@@ -1,7 +1,7 @@
 // ex11_10.java
 // 클래스 변수 활용 예
 
-package Java.Java_Beginner.Chapter11;
+package Java_Beginner.Chapter11;
 
 class Car {
     String color;

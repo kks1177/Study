@@ -1,7 +1,7 @@
 // ex6_17.java
 // 다양한 for문의 형태 2
 
-package Java.Java_Beginner.Chapter06;
+package Java_Beginner.Chapter06;
 
 public class ex6_17 {
     public static void main(String[] args) {

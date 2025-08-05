@@ -1,7 +1,7 @@
 // ex10_14.java
 // 파일을 이용한 출력 2
 
-package Java.Java_Beginner.Chapter10;
+package Java_Beginner.Chapter10;
 
 import java.io.FileWriter;
 import java.util.Scanner;

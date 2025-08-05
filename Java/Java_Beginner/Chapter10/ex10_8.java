@@ -1,7 +1,7 @@
 // ex10_8.java
 // System.in.read() 사용 예
 
-package Java.Java_Beginner.Chapter10;
+package Java_Beginner.Chapter10;
 
 import java.io.IOException;
 

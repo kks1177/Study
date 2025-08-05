@@ -1,7 +1,7 @@
 // ex9_2.java
 // length() 메소드 사용 예 2
 
-package Java.Java_Beginner.Chapter09;
+package Java_Beginner.Chapter09;
 
 import java.util.Scanner;
 

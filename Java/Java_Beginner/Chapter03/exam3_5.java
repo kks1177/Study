@@ -1,7 +1,7 @@
 // exam3_5.java
 // 입력하는 정수의 진수 결정
 
-package Java.Java_Beginner.Chapter03;
+package Java_Beginner.Chapter03;
 
 import java.util.Scanner;
 

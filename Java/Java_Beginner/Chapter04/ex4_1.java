@@ -1,7 +1,7 @@
 // ex4_1.java
 // 산술 연산자의 사용 예
 
-package Java.Java_Beginner.Chapter04;
+package Java_Beginner.Chapter04;
 
 public class ex4_1 {
     public static void main(String[] args) {

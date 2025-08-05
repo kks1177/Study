@@ -1,7 +1,7 @@
 // ex9_7.java
 // 모든 공백 없애기
 
-package Java.Java_Beginner.Chapter09;
+package Java_Beginner.Chapter09;
 
 public class ex9_7 {
     public static void main(String[] args) {

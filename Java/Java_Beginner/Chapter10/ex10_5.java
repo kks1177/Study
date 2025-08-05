@@ -1,7 +1,7 @@
 // ex10_5.java
 // 서식화된 출력 메소드 사용 예 
 
-package Java.Java_Beginner.Chapter10;
+package Java_Beginner.Chapter10;
 
 public class ex10_5 {
     public static void main(String[] args) {

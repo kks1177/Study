@@ -1,7 +1,7 @@
 // ex6_7.java
 // for문을 사용하여 합계 구하기 1
 
-package Java.Java_Beginner.Chapter06;
+package Java_Beginner.Chapter06;
 
 public class ex6_7 {
     public static void main(String[] args) {

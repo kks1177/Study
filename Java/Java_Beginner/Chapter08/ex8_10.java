@@ -1,7 +1,7 @@
 // ex8_10.java
 // 2차원 배열의 동적 할당
 
-package Java.Java_Beginner.Chapter08;
+package Java_Beginner.Chapter08;
 
 import java.util.Scanner;
 

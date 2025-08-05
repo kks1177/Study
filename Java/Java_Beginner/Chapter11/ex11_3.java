@@ -1,7 +1,7 @@
 // ex11_3.java
 // private 접근 제어 수식어 사용 예
 
-package Java.Java_Beginner.Chapter11;
+package Java_Beginner.Chapter11;
 
 class Car {
     private String color = "";

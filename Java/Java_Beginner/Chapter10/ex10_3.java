@@ -1,3 +1,4 @@
+package Java_Beginner.Chapter10;
 // // ex10_3.java
 // // 오류 내용의 출력 예
 

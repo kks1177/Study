@@ -1,7 +1,7 @@
 // ex9_13.java
 // 본격적으로 메소드 사용하기
 
-package Java.Java_Beginner.Chapter09;
+package Java_Beginner.Chapter09;
 
 public class ex9_13 {
     static int plus(int v1, int v2) {

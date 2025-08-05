@@ -1,7 +1,7 @@
 // ex7_2.java
 // for문을 while문으로 바꾸기 2
 
-package Java.Java_Beginner.Chapter07;
+package Java_Beginner.Chapter07;
 
 public class ex7_2 {
     public static void main(String[] args) {

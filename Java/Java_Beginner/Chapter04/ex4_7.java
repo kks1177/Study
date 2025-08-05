@@ -1,7 +1,7 @@
 // ex4_7.java
 // 논리 연산자 사용 예 2
 
-package Java.Java_Beginner.Chapter04;
+package Java_Beginner.Chapter04;
 
 public class ex4_7 {
     public static void main(String[] args) {

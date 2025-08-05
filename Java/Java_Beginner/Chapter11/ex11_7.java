@@ -1,7 +1,7 @@
 // ex11_7.java
 // 생성자 사용 예 2
 
-package Java.Java_Beginner.Chapter11;
+package Java_Beginner.Chapter11;
 
 class Car {
     private String color = "";

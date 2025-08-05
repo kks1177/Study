@@ -1,7 +1,7 @@
 // ex6_2.java
 // 기본 for문 사용 예 
 
-package Java.Java_Beginner.Chapter06;
+package Java_Beginner.Chapter06;
 
 public class ex6_2 {
     public static void main(String[] args) {

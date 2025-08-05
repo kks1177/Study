@@ -1,7 +1,7 @@
 // ex4_3.java
 // 증감 연산자와 대입 연산자
 
-package Java.Java_Beginner.Chapter04;
+package Java_Beginner.Chapter04;
 
 public class ex4_3 {
     public static void main(String[] args) {

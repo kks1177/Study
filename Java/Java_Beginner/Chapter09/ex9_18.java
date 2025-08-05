@@ -1,7 +1,7 @@
 // ex9_18.java
 // 매개변수 전달 방법(주소의 전달 - Call by Reference)
 
-package Java.Java_Beginner.Chapter09;
+package Java_Beginner.Chapter09;
 
 class myInt {
     int a = 0;

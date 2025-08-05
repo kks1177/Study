@@ -1,7 +1,7 @@
 // ex9_16.java
 // 반환 값 유무에 따른 메소드 비교
 
-package Java.Java_Beginner.Chapter09;
+package Java_Beginner.Chapter09;
 
 public class ex9_16 {
     static void func1() {

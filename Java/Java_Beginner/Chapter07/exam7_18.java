@@ -1,7 +1,7 @@
 // exam7_18.java
 // 입력한 문자열의 종류 구분
 
-package Java.Java_Beginner.Chapter07;
+package Java_Beginner.Chapter07;
 
 import java.util.Scanner;
 

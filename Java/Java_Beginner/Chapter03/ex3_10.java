@@ -1,7 +1,7 @@
 // ex3_10.java
 // 소수점이 없는 정수형
 
-package Java.Java_Beginner.Chapter03;
+package Java_Beginner.Chapter03;
 
 public class ex3_10 {
     public static void main(String[] args) {

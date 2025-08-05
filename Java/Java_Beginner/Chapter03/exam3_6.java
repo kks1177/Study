@@ -1,7 +1,7 @@
 // exam3_6.java
 // 데이터형의 크기 확인
 
-package Java.Java_Beginner.Chapter03;
+package Java_Beginner.Chapter03;
 
 public class exam3_6 {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
 // ex6_15.java
 // 중첩 for문 사용 예 3
 
-package Java.Java_Beginner.Chapter06;
+package Java_Beginner.Chapter06;
 
 public class ex6_15 {
     public static void main(String[] args) {

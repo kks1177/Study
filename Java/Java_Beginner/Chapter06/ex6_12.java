@@ -1,7 +1,7 @@
 // ex6_12.java
 // for문을 사용한 구구단 프로그램
 
-package Java.Java_Beginner.Chapter06;
+package Java_Beginner.Chapter06;
 
 import java.util.Scanner;
 

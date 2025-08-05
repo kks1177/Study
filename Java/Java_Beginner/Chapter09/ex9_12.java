@@ -1,7 +1,7 @@
 // ex9_12.java
 // 여러 명의 주문을 받도록 [실습9-11] 변경하기
 
-package Java.Java_Beginner.Chapter09; 
+package Java_Beginner.Chapter09; 
 
 import java.util.Scanner;
 

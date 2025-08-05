@@ -1,7 +1,7 @@
 // ex8_1.java
 // 여러 개의 변수 값을 선언하여 출력 
 
-package Java.Java_Beginner.Chapter08;
+package Java_Beginner.Chapter08;
 
 import java.util.Scanner;
 

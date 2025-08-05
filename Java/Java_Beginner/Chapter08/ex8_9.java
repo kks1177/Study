@@ -1,7 +1,7 @@
 // ex8_9.java
 // 2차원 배열의 초기화
 
-package Java.Java_Beginner.Chapter08;
+package Java_Beginner.Chapter08;
 
 public class ex8_9 {
     public static void main(String[] args) {

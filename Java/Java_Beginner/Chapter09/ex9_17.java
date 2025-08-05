@@ -1,7 +1,7 @@
 // ex9_17.java
 // 매개변수 전달 방법 (값의 전달 - Call by Value) 
 
-package Java.Java_Beginner.Chapter09;
+package Java_Beginner.Chapter09;
 
 public class ex9_17 {
     static void func1(int a) {

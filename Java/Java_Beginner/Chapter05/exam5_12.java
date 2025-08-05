@@ -1,4 +1,6 @@
-package Java.Java_Beginner.Chapter05;
+// exam5_12.java
+
+package Java_Beginner.Chapter05;
 
 import java.util.Scanner;
 

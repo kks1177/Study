@@ -1,7 +1,7 @@
 // ex3_6.java
 // 다양한 서식 활용 예 2
 
-package Java.Java_Beginner.Chapter03;
+package Java_Beginner.Chapter03;
 
 public class ex3_6 {
     public static void main(String[] args) {

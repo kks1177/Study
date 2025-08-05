@@ -1,7 +1,7 @@
 // ex11_11.java
 // 클래스 메소드 활용 예
 
-package Java.Java_Beginner.Chapter11;
+package Java_Beginner.Chapter11;
 
 class Car {
     String color;

@@ -1,7 +1,7 @@
 // ex5_4.java
 // if~else문 사용 예
 
-package Java.Java_Beginner.Chapter05;
+package Java_Beginner.Chapter05;
 
 public class ex5_4 {
     public static void main(String[] args) {

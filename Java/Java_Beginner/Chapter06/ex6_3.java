@@ -1,7 +1,7 @@
 // ex6_3.java
 // for문과 중괄호 사용 예 
 
-package Java.Java_Beginner.Chapter06;
+package Java_Beginner.Chapter06;
 
 public class ex6_3 {
     public static void main(String[] args) {

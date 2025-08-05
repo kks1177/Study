@@ -1,7 +1,7 @@
 // exam9_24.java
 // 대문자와 소문자의 변환
 
-package Java.Java_Beginner.Chapter09;
+package Java_Beginner.Chapter09;
 
 import java.util.Scanner;
 

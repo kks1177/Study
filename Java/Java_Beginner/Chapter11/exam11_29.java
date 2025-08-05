@@ -1,7 +1,7 @@
 // exam11_29.java
 // 클래스의 기본
 
-package Java.Java_Beginner.Chapter11;
+package Java_Beginner.Chapter11;
 
 class Pet {
     String type;    // 애완동물 종류

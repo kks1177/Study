@@ -1,7 +1,7 @@
 // ex8_2.java
 // 배열의 값을 대입하여 출력
 
-package Java.Java_Beginner.Chapter08;
+package Java_Beginner.Chapter08;
 
 import java.util.Scanner;
 

@@ -1,7 +1,7 @@
 // ex3_11.java
 // 소수점이 있는 실수형
 
-package Java.Java_Beginner.Chapter03;
+package Java_Beginner.Chapter03;
 
 public class ex3_11 {
     public static void main(String[] args) {

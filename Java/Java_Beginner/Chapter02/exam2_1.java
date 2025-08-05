@@ -1,7 +1,7 @@
 // exam2_1.java
 // 숫자 4개를 더하는 프로그램
 
-package Java.Java_Beginner.Chapter02;
+package Java_Beginner.Chapter02;
 
 import java.util.Scanner;
 

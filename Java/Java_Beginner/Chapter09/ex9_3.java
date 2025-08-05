@@ -1,7 +1,7 @@
 // ex9_3.java
 // startsWith(), endsWith() 사용 예
 
-package Java.Java_Beginner.Chapter09;
+package Java_Beginner.Chapter09;
 
 import java.util.Scanner;
 

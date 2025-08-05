@@ -1,7 +1,7 @@
 // ex8_5.java
 // 배열의 초기화 2 
 
-package Java.Java_Beginner.Chapter08;
+package Java_Beginner.Chapter08;
 
 public class ex8_5 {
     public static void main(String[] args) {

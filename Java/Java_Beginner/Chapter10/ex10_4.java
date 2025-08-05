@@ -1,3 +1,4 @@
+package Java_Beginner.Chapter10;
 // // ex10_4.java
 // // 오류 메시지 직접 만들기
 

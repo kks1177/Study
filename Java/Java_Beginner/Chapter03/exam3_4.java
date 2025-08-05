@@ -1,7 +1,7 @@
 // exam3_4.java
 // 정수형을 출력하는 프로그램
 
-package Java.Java_Beginner.Chapter03;
+package Java_Beginner.Chapter03;
 
 import java.util.Scanner;
 

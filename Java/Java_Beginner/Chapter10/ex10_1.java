@@ -1,7 +1,7 @@
 // ex10_1.java
 // 예외 처리 기본 예
 
-package Java.Java_Beginner.Chapter10;
+package Java_Beginner.Chapter10;
 
 public class ex10_1 {
     public static void main(String[] args) {

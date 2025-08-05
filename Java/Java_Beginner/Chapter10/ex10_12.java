@@ -1,7 +1,7 @@
 // ex10_12.java
 // Scanner를 이용한 입력
 
-package Java.Java_Beginner.Chapter10;
+package Java_Beginner.Chapter10;
 
 import java.io.File;
 import java.util.Scanner;

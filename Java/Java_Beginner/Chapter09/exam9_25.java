@@ -1,7 +1,7 @@
 // exam9_25.java
 // 로또 숫자 자동 추첨
 
-package Java.Java_Beginner.Chapter09;
+package Java_Beginner.Chapter09;
 
 public class exam9_25 {
     static short getNumber() {

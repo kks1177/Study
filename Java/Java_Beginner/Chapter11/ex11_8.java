@@ -1,7 +1,7 @@
 // ex11_8.java
 // 메소드 오버로딩 1
 
-package Java.Java_Beginner.Chapter11;
+package Java_Beginner.Chapter11;
 
 class Car {
     private String color = "";

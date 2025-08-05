@@ -1,7 +1,7 @@
 // ex10_7.java
 // next()의 작동 예 
 
-package Java.Java_Beginner.Chapter10;
+package Java_Beginner.Chapter10;
 
 import java.util.Scanner;
 

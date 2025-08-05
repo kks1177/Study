@@ -1,7 +1,7 @@
 // ex9_15.java
 // 지역변수와 전역변수의 비교
 
-package Java.Java_Beginner.Chapter09;
+package Java_Beginner.Chapter09;
 
 public class ex9_15 {
     static int a = 100;

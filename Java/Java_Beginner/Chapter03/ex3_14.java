@@ -1,7 +1,7 @@
 // ex3_14.java
 // 불형 사용 예
 
-package Java.Java_Beginner.Chapter03;
+package Java_Beginner.Chapter03;
 
 public class ex3_14 {
     public static void main(String[] args) {

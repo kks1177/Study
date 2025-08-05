@@ -1,7 +1,7 @@
 // ex6_11.java
 // for문을 사용하여 합계 구하기 5
 
-package Java.Java_Beginner.Chapter06;
+package Java_Beginner.Chapter06;
 
 import java.util.Scanner;
 

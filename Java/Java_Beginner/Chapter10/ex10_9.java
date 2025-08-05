@@ -1,7 +1,7 @@
 // ex10_9.java
 // 파일을 이용한 입력 1
 
-package Java.Java_Beginner.Chapter10;
+package Java_Beginner.Chapter10;
 
 import java.io.FileInputStream;
 

@@ -1,7 +1,7 @@
 // ex7_4.java
 // 무한 루프를 활용한 계산기
 
-package Java.Java_Beginner.Chapter07;
+package Java_Beginner.Chapter07;
 
 //import java.io.IOException;
 import java.util.Scanner;

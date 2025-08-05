@@ -1,7 +1,7 @@
 // ex4_11.java
 // 비트 연산에 마스크를 사용한 예
 
-package Java.Java_Beginner.Chapter04;
+package Java_Beginner.Chapter04;
 
 public class ex4_11 {
     public static void main(String[] args) {

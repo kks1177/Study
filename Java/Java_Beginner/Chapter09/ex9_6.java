@@ -1,7 +1,7 @@
 // ex9_6.java 
 // toUpperCase(), toLowerCase(), trim() 사용 예
 
-package Java.Java_Beginner.Chapter09;
+package Java_Beginner.Chapter09;
 
 public class ex9_6 {
     public static void main(String[] args) {

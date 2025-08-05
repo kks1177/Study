@@ -1,7 +1,7 @@
 // ex7_11.java
 // 다중 반복문의 무한 루프
 
-package Java.Java_Beginner.Chapter07;
+package Java_Beginner.Chapter07;
 
 public class ex7_11 {
     public static void main(String[] args) {

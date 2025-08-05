@@ -1,7 +1,7 @@
 // ex11_9.java
 // 메소드 오버로딩 2
 
-package Java.Java_Beginner.Chapter11;
+package Java_Beginner.Chapter11;
 
 class Calc {
     void addValue (double v1, double v2) {

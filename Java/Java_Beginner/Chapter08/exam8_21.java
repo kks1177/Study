@@ -1,7 +1,7 @@
 // exam8_21.java
 // 3차원 배열을 활용한 합계
 
-package Java.Java_Beginner.Chapter08;
+package Java_Beginner.Chapter08;
 
 public class exam8_21 {
     public static void main(String[] args) {

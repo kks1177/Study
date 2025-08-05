@@ -1,7 +1,7 @@
 // ex9_1.java
 // length() 메소드 사용 예 1
 
-package Java.Java_Beginner.Chapter09;
+package Java_Beginner.Chapter09;
 
 public class ex9_1 {
     public static void main(String[] args) {

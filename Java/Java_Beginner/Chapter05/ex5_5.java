@@ -1,7 +1,7 @@
 // ex5_5.java
 // 중괄호를 사용한 if~else문 사용 예 1
 
-package Java.Java_Beginner.Chapter05;
+package Java_Beginner.Chapter05;
 
 public class ex5_5 {
     public static void main(String[] args) {

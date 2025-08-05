@@ -1,7 +1,7 @@
 // ex3_15.java
 // 문자열 사용 예
 
-package Java.Java_Beginner.Chapter03;
+package Java_Beginner.Chapter03;
 
 public class ex3_15 {
     public static void main(String[] args) {

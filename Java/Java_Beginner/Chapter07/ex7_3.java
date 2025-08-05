@@ -1,7 +1,7 @@
 // ex7_3.java
 // while문의 무한 루프 만들기
 
-package Java.Java_Beginner.Chapter07;
+package Java_Beginner.Chapter07;
 
 import java.util.Scanner;
 

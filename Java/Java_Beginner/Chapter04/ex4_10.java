@@ -1,7 +1,7 @@
 // ex4_10.java
 // 비트 배타적 논리합 연산자 사용 예
 
-package Java.Java_Beginner.Chapter04;
+package Java_Beginner.Chapter04;
 
 public class ex4_10 {
     public static void main(String[] args) {

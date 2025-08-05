@@ -1,7 +1,7 @@
 // ex10_16.java
 // 명령 프롬프트에서 파라미터 전달받기
 
-package Java.Java_Beginner.Chapter10;
+package Java_Beginner.Chapter10;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

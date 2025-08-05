@@ -1,7 +1,7 @@
 // exam4_10.java
 // 윤년 계산 프로그램
 
-package Java.Java_Beginner.Chapter04;
+package Java_Beginner.Chapter04;
 
 import java.util.Scanner;
 

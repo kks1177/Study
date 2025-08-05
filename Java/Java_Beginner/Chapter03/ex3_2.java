@@ -1,7 +1,7 @@
 // ex3_2.java
 // System.out.printf() 메소드 사용 예 2
 
-package Java.Java_Beginner.Chapter03;
+package Java_Beginner.Chapter03;
 
 public class ex3_2 {
     public static void main(String[] args) {

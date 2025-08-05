@@ -1,7 +1,7 @@
 // ex9_10.java
 // 직접 커피를 타는 과정
 
-package Java.Java_Beginner.Chapter09;
+package Java_Beginner.Chapter09;
 
 import java.util.Scanner;
 

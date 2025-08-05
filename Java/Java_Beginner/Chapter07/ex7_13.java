@@ -1,7 +1,7 @@
 // ex7_13.java
 // return문 사용 예
 
-package Java.Java_Beginner.Chapter07;
+package Java_Beginner.Chapter07;
 
 public class ex7_13 {
     public static void main(String[] args) {

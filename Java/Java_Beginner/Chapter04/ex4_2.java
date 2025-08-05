@@ -1,7 +1,7 @@
 // ex4_2.java
 // 우선순위와 강제 형 변환의 예
 
-package Java.Java_Beginner.Chapter04;
+package Java_Beginner.Chapter04;
 
 public class ex4_2 {
     public static void main(String[] args) {

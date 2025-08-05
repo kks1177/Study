@@ -1,7 +1,7 @@
 // exam10_28.java
 // 파일에서 읽어온 문자열을 파일에 거꾸로 출력
 
-package Java.Java_Beginner.Chapter10;
+package Java_Beginner.Chapter10;
 
 //import java.io.File;
 import java.io.PrintWriter;

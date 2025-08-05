@@ -1,7 +1,7 @@
 // exam5_13.java
 // switch~case문을 활용한 간단한 계산기
 
-package Java.Java_Beginner.Chapter05;
+package Java_Beginner.Chapter05;
 
 import java.util.Scanner;
 

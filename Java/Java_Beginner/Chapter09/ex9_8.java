@@ -1,7 +1,7 @@
 // ex9_8.java
 // compareTo(), contains() 사용 예
 
-package Java.Java_Beginner.Chapter09;
+package Java_Beginner.Chapter09;
 
 public class ex9_8 {
     public static void main(String[] args) {

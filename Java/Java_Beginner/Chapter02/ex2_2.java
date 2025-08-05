@@ -1,7 +1,7 @@
 // ex2_2.java
 // 소스코드 수정하기 (키보드로 값 입력 받음)
 
-package Java.Java_Beginner.Chapter02;
+package Java_Beginner.Chapter02;
 
 import java.util.Scanner;
 

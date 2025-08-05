@@ -1,7 +1,7 @@
 // exam4_9.java
 // 동전 교환 프로그램
 
-package Java.Java_Beginner.Chapter04;
+package Java_Beginner.Chapter04;
 
 import java.util.Scanner;
 

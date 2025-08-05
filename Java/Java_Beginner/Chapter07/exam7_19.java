@@ -1,7 +1,7 @@
 // exam7_19.java
 // 입력한 숫자만큼 별표 출력
 
-package Java.Java_Beginner.Chapter07;
+package Java_Beginner.Chapter07;
 
 import java.util.Scanner;
 

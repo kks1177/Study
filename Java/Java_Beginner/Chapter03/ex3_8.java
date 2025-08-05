@@ -1,7 +1,7 @@
 // ex3_8.java
 // 변수에 변수를 대입 1
 
-package Java.Java_Beginner.Chapter03;
+package Java_Beginner.Chapter03;
 
 public class ex3_8 {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
 // ex5_1.java
 // 기본 if문 사용 예 1
 
-package Java.Java_Beginner.Chapter05;
+package Java_Beginner.Chapter05;
 
 public class ex5_1 {
     public static void main(String[] args) {

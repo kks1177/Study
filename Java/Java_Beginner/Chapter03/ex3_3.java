@@ -1,7 +1,7 @@
 // ex3_3.java
 // 서식을 사용한 출력의 예 1
 
-package Java.Java_Beginner.Chapter03;
+package Java_Beginner.Chapter03;
 
 public class ex3_3 {
     public static void main(String[] args) {

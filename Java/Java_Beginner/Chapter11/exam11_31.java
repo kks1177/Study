@@ -1,7 +1,7 @@
 // exam11_31.java
 // 클래스의 기본 - 생성자, 클래스 변수, 클래스 메소드 활용
 
-package Java.Java_Beginner.Chapter11;
+package Java_Beginner.Chapter11;
 
 class Pet {
     private String type;

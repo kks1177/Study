@@ -1,5 +1,6 @@
 // ex12_1.java
-// 클래스 상속의 예
+
+package Java_Beginner.Chapter12;
 
 class Car {
     String color;

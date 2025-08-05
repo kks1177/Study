@@ -1,7 +1,7 @@
 // ex9_5.java
 // 문자열 처리 메소드 활용 예
 
-package Java.Java_Beginner.Chapter09;
+package Java_Beginner.Chapter09;
 
 import java.util.Scanner;
 

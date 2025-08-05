@@ -1,7 +1,7 @@
 // exam6-15.java
 // 아스키코드표 출력
 
-package Java.Java_Beginner.Chapter06;
+package Java_Beginner.Chapter06;
 
 public class exam6_15 {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
 // exam11_30.java
 // 클래스의 기본 - 접근 제어 수식의 활용
 
-package Java.Java_Beginner.Chapter11;
+package Java_Beginner.Chapter11;
 
 class Pet {
     private String type;

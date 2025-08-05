@@ -1,7 +1,7 @@
 // exam10_27.java
 // 구구단을 파일에 출력
 
-package Java.Java_Beginner.Chapter10;
+package Java_Beginner.Chapter10;
 
 import java.io.PrintWriter;
 

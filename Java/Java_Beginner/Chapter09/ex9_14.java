@@ -1,7 +1,7 @@
 // ex9_14.java
 // 계산기 메소드 사용 예 
 
-package Java.Java_Beginner.Chapter09;
+package Java_Beginner.Chapter09;
 
 import java.util.Scanner;
 

@@ -1,7 +1,7 @@
 // exam8_20.java
 // 구구단의 결과를 2차원 배열에 저장
 
-package Java.Java_Beginner.Chapter08;
+package Java_Beginner.Chapter08;
 
 public class exam8_20 {
     public static void main(String[] args) {

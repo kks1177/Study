@@ -1,7 +1,7 @@
 // ex8_6.java
 // 배열의 크기 계산
 
-package Java.Java_Beginner.Chapter08;
+package Java_Beginner.Chapter08;
 
 public class ex8_6 {
     public static void main(String[] args) {

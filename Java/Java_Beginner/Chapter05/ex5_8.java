@@ -1,7 +1,7 @@
 // ex5_8.java
 // 중첩 if문 사용 예 2
 
-package Java.Java_Beginner.Chapter05;
+package Java_Beginner.Chapter05;
 
 import java.util.Scanner;
 
