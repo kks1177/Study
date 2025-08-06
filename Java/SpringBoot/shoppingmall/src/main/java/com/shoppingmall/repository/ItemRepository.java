@@ -51,6 +51,9 @@ public interface ItemRepository extends JpaRepository<Item, Long> {
     /* @Query의 nativeQuery 속성을 사용하면 기존 쿼리를 그대로 활용 가능
     But, 특정 DB에 종속되는 쿼리문을 사용 --> DB에 대해 독립적이라는 장점 x
     통계용 쿼리처럼 복잡한 쿼리를 그대로 사용해야하는 경우 활용 */
-    @Query(value="select * from item i where i.item_detail like %:itemDetail% order by i.price desc", nativeQuery=true)
+    @Query(value="SELECT * FROM item i " +
+                "WHERE i.item_detail LIKE CONCAT('%', :itemDetail, '%') " +
+                "ORDER BY i.price DESC",
+            nativeQuery = true)
     List<Item> findByItemDetailByNative(@Param("itemDetail") String itemDetail);
 }
