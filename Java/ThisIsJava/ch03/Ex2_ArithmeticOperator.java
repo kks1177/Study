@@ -22,6 +22,8 @@ public class Ex2_ArithmeticOperator {
 
             int result4 = v1 % v2;
             System.out.println("result4 : " + result4);
+
+            System.out.println(v3);
         } catch (Exception e) {
             System.err.println("\n\n !!!예외 발생: " + e.getMessage());
         }

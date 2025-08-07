@@ -20,6 +20,8 @@ public class Ex13_A3 {
         method1();
         method2();
         method3();
+
+        System.out.println(field3);
     }
 
     // public 접근 제한을 갖는 메소드 선언
