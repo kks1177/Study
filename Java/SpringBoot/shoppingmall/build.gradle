@@ -13,6 +13,13 @@ java {
 	}
 }
 
+// Gradle이 사용할 Java 경로를 직접 지정
+gradle.projectsEvaluated {
+	tasks.withType(JavaCompile) {
+		options.compilerArgs += ["-source", "17", "-target", "17"]
+	}
+}
+
 configurations {
 	compileOnly {
 		extendsFrom annotationProcessor

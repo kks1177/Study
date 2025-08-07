@@ -10,8 +10,9 @@ public class Ex11_VariableScope {
         try {
             if (v1 > 10) {
                 int v2 = v1 - 10;
+                System.out.println(v2);
             }
-            //int v3 = v1 + v2 + 5;       // error..            
+            //int v3 = v1 + v2 + 5;       // error..
         } catch (Exception e) {
             System.err.println("\n\n !!!예외 발생: " + e.getMessage());
         }

@@ -10,5 +10,8 @@ public class Ex4_NullPointerException {
 
         String str = null;
         //System.out.println("총 문자 수 : " + str.length());     // NullPointerException
+
+        System.out.println(intArray);
+        System.out.println(str);
     }
 }
