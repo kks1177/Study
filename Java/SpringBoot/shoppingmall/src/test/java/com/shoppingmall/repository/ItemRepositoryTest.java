@@ -60,7 +60,7 @@ class ItemRepositoryTest {
             item.setStockNumber(100);
             item.setRegTime(LocalDateTime.now());
             item.setUpdateTime(LocalDateTime.now());
-            Item savedItem = itemRepository.save(item);
+            itemRepository.save(item);
         }
     }
     /* 상품명을 통해 상품을 검색 */
